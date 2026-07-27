@@ -1,1 +1,0 @@
-const bell = new Audio("assets/bell.mp3");
